@@ -1,0 +1,482 @@
+(node:20203) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:25785) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:24623) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:16377) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:27486) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:16554) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:20384) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:20390) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+(node:22684) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+/home/imbsskjv/node.imbs.sn/app.js:16
+      var oldpath = files.filetoupload.path;
+                                       ^
+
+TypeError: Cannot read property 'path' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:16:40
+    at IncomingForm.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:107:9)
+    at IncomingForm.emit (events.js:314:20)
+    at IncomingForm._maybeEnd (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:557:8)
+    at Object.end (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:247:12)
+    at IncomingMessage.<anonymous> (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/formidable/lib/incoming_form.js:132:30)
+    at IncomingMessage.emit (events.js:314:20)
+    at endReadableNT (_stream_readable.js:1241:12)
+    at processTicksAndRejections (internal/process/task_queues.js:84:21)
+(node:25040) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+/home/imbsskjv/node.imbs.sn/app.js:20
+            throw err;
+            ^
+
+[Error: EISDIR: illegal operation on a directory, copyfile '/tmp/upload_b10446595e455ecd6911785febbe4302' -> 'imagefile/'] {
+  errno: -21,
+  code: 'EISDIR',
+  syscall: 'copyfile',
+  path: '/tmp/upload_b10446595e455ecd6911785febbe4302',
+  dest: 'imagefile/'
+}
+/home/imbsskjv/node.imbs.sn/app.js:20
+            throw err;
+            ^
+
+[Error: EISDIR: illegal operation on a directory, copyfile '/tmp/upload_63773c2f83c41d05aac0819796647350' -> 'imagefile/'] {
+  errno: -21,
+  code: 'EISDIR',
+  syscall: 'copyfile',
+  path: '/tmp/upload_63773c2f83c41d05aac0819796647350',
+  dest: 'imagefile/'
+}
+/home/imbsskjv/node.imbs.sn/app.js:20
+            throw err;
+            ^
+
+[Error: EISDIR: illegal operation on a directory, copyfile '/tmp/upload_834ffd5fb56a1f8a53c4ecde253aba3f' -> 'imagefile/'] {
+  errno: -21,
+  code: 'EISDIR',
+  syscall: 'copyfile',
+  path: '/tmp/upload_834ffd5fb56a1f8a53c4ecde253aba3f',
+  dest: 'imagefile/'
+}
+/home/imbsskjv/node.imbs.sn/app.js:20
+            throw err;
+            ^
+
+[Error: EISDIR: illegal operation on a directory, copyfile '/tmp/upload_f8efcff8a58c9d6d34e9e76ebaddb4cb' -> 'imagefile/'] {
+  errno: -21,
+  code: 'EISDIR',
+  syscall: 'copyfile',
+  path: '/tmp/upload_f8efcff8a58c9d6d34e9e76ebaddb4cb',
+  dest: 'imagefile/'
+}
+/home/imbsskjv/node.imbs.sn/app.js:20
+            throw err;
+            ^
+
+[Error: EISDIR: illegal operation on a directory, copyfile '/tmp/upload_32c0e58f606a4b3e94c24f9664df0a64' -> 'imagefile/'] {
+  errno: -21,
+  code: 'EISDIR',
+  syscall: 'copyfile',
+  path: '/tmp/upload_32c0e58f606a4b3e94c24f9664df0a64',
+  dest: 'imagefile/'
+}
+(node:32597) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:966) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:1582) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:1316) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:51:21
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:2129) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:51:21
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:2956) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:51:21
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:4911) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:54:25
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:5225) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:6256) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:54:25
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:12829) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:12829) DeprecationWarning: collection.remove is deprecated. Use deleteOne, deleteMany, or bulkWrite instead.
+/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:339
+          throw err;
+          ^
+
+TypeError: dbo.collection(...).remove(...) is not a function
+    at /home/imbsskjv/node.imbs.sn/app.js:49:58
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/mongo_client.js:258:7
+    at connectCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:365:5)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:555:5
+    at ReplSet.connectHandler (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:336:9)
+    at Object.onceWrapper (events.js:421:26)
+    at ReplSet.emit (events.js:314:20)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/topologies/replset.js:796:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+(node:14140) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:14140) DeprecationWarning: collection.remove is deprecated. Use deleteOne, deleteMany, or bulkWrite instead.
+/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:339
+          throw err;
+          ^
+
+TypeError: dbo.collection(...).remove(...) is not a function
+    at /home/imbsskjv/node.imbs.sn/app.js:30:58
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/mongo_client.js:258:7
+    at connectCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:365:5)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:555:5
+    at ReplSet.connectHandler (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:336:9)
+    at Object.onceWrapper (events.js:421:26)
+    at ReplSet.emit (events.js:314:20)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/topologies/replset.js:796:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+(node:14551) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+(node:14551) DeprecationWarning: collection.remove is deprecated. Use deleteOne, deleteMany, or bulkWrite instead.
+/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:339
+          throw err;
+          ^
+
+TypeError: dbo.collection(...).remove(...) is not a function
+    at /home/imbsskjv/node.imbs.sn/app.js:30:58
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/mongo_client.js:258:7
+    at connectCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:365:5)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:555:5
+    at ReplSet.connectHandler (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:336:9)
+    at Object.onceWrapper (events.js:421:26)
+    at ReplSet.emit (events.js:314:20)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/topologies/replset.js:796:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+(node:16399) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:339
+          throw err;
+          ^
+
+TypeError: Cannot read property 'remove' of undefined
+    at /home/imbsskjv/node.imbs.sn/app.js:30:34
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/mongo_client.js:258:7
+    at connectCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:365:5)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/operations/connect.js:555:5
+    at ReplSet.connectHandler (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/topologies/replset.js:336:9)
+    at Object.onceWrapper (events.js:421:26)
+    at ReplSet.emit (events.js:314:20)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/topologies/replset.js:796:18
+    at processTicksAndRejections (internal/process/task_queues.js:79:11)
+(node:18433) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:54:25
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:22816) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:106
+      throw err;
+      ^
+
+TypeError: res.json is not a function
+    at /home/imbsskjv/node.imbs.sn/app.js:54:25
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+    at maybePromise (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:685:3)
+    at Cursor.close (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:916:12)
+(node:24623) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:52:25
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:25144) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:52:25
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:25902) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
+events.js:291
+      throw er; // Unhandled 'error' event
+      ^
+
+Error [ERR_STREAM_WRITE_AFTER_END]: write after end
+    at write_ (_http_outgoing.js:641:17)
+    at ServerResponse.write (_http_outgoing.js:633:15)
+    at /home/imbsskjv/node.imbs.sn/app.js:52:25
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at handleCallback (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:102:55)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:840:66
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/utils.js:697:5
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:925:9
+    at Cursor._endSession (/home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/core/cursor.js:397:7)
+    at /home/imbsskjv/nodevenv/node.imbs.sn/12/lib/node_modules/mongodb/lib/cursor.js:923:12
+Emitted 'error' event on ServerResponse instance at:
+    at writeAfterEndNT (_http_outgoing.js:696:7)
+    at processTicksAndRejections (internal/process/task_queues.js:85:21) {
+  code: 'ERR_STREAM_WRITE_AFTER_END'
+}
+(node:27002) [MONGODB DRIVER] Warning: Current Server Discovery and Monitoring engine is deprecated, and will be removed in a future version. To use the new Server Discover and Monitoring engine, pass option { useUnifiedTopology: true } to the MongoClient constructor.
